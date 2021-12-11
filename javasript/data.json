@@ -1,0 +1,25 @@
+{
+    "profile":[{
+  "img":"6.png",  
+ "name":"sasi",
+ "pin" :507,
+ "branch":"CSE"
+},
+{
+       "img":"7.png",  
+       "name":"gier",
+       "pin" :519,
+       "branch":"CSE"
+    
+},
+{
+    "img":"7.png",  
+   "name":"varshini",
+   "pin" :517,
+   "branch":"CSE"
+
+
+}]
+
+
+}
